@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(173, 207, 237) ;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(37, 6, 6);
+    list-style-position: inside;
+
+}
+
+ol{
+    font-style: normal;
+    font-size: 25px;
+    font-weight:bold;
+
+}
+
+ul{
+    font-size: 20px;
+    text-align:center;
+}
+
+img{
+    border: 5px solid #7072b3;
+    border-radius: 4px;
+    padding: 5px;
+    width:300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+video{
+    border: 5px solid #7072b3;
+    border-radius: 4px;
+    padding: 10px;
+    width:150px;
+}
+
+#footer{
+    color: rgb(127, 8, 238);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#Header{
+    color: rgb(127, 8, 238);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#body{
+    font-family: monospace;
+}
